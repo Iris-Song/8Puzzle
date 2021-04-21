@@ -6,7 +6,7 @@ ai assignment , undergraduate course
 >using A* algorithm,comparing three h(n)
 >
 >using Qt&C++ 
->
->you can download exe folder to run the program without install environment
+
+you can download exe folder to run the program without install environment
 
 
