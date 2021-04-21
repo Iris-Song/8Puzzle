@@ -1,6 +1,7 @@
 # 8Puzzle-Qt
 
 ai assignment , undergraduate course
->not a game, only show the search tree & process & operation details to help better compare
+>not a game, just show the search tree & process & operation details to help better understand knowledge
 >
->using A* algorithm
+>using A* algorithm,compare three h(n)
+>
