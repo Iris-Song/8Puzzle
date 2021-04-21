@@ -7,6 +7,6 @@ ai assignment , undergraduate course
 >
 >using Qt&C++ 
 >
->you can download [exe]() to run the program without install environment
+>you can download exe folder to run the program without install environment
 
 
