@@ -35,7 +35,7 @@ random select, compare three h(n) performace in efficiency.
 ![image](https://user-images.githubusercontent.com/58033867/125616824-8392bc5b-733e-4eba-9a46-7eaeacfbe887.png)
 
 ## others
-you can see detailed report here (Chinese language)
+you can see detailed report [here](https://github.com/Iris-Song/8Puzzle/blob/main/report.pdf) (Chinese language)
 
 
 
